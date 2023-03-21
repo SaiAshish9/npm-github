@@ -8,6 +8,8 @@ https://docs.github.com/en/packages/learn-github-packages/configuring-a-packages
 
 <img width="1785" alt="Screenshot 2023-03-21 at 10 20 09 PM" src="https://user-images.githubusercontent.com/43849911/226682717-fd48c9c4-bca2-4259-9e7b-f217158d716c.png">
 
+<img width="1792" alt="Screenshot 2023-03-21 at 10 35 44 PM" src="https://user-images.githubusercontent.com/43849911/226686933-cc71c2bf-48d4-4725-bbae-8b4e45b3a10c.png">
+
 ```
 npm publish --access public
  
