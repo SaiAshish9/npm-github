@@ -33,3 +33,5 @@ npm notice Publishing to https://registry.npmjs.org/
 ```
 npm publish --registry=https://npm.pkg.github.com/
 ```
+
+<img width="1792" alt="Screenshot 2023-03-21 at 10 13 04 PM" src="https://user-images.githubusercontent.com/43849911/226680866-df94d1ae-b2fe-4a7c-b6de-7b2933e2795b.png">
