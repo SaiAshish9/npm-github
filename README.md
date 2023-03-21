@@ -26,6 +26,9 @@ https://2ality.com/2021/07/simple-monorepos.html#:~:text=Simple%20monorepos%20vi
 
 <img width="1166" alt="Screenshot 2023-03-22 at 12 44 54 AM" src="https://user-images.githubusercontent.com/43849911/226716954-65a87ea3-f00c-4964-b129-4302596d2d5a.png">
 
+![re](https://user-images.githubusercontent.com/43849911/226718898-03b41f00-1e9f-42a2-9e1e-5581f75b2a4b.png)
+
+
 https://egghead.io/courses/introduction-to-monorepos-with-npm-workspaces-c03f500b
 
 ```
