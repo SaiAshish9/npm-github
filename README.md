@@ -12,6 +12,8 @@ https://github.com/joelparkerhenderson/monorepo-vs-polyrepo
 
 https://www.youtube.com/watch?v=m2cPEwwf8bc
 
+https://2ality.com/2021/07/simple-monorepos.html#:~:text=Simple%20monorepos%20via%20npm%20workspaces%20and%20TypeScript%20project%20references,-%5B2021%2D07%2D&text=A%20monorepo%20is%20a%20single,built%20into%20npm%20and%20TypeScript.
+
 <img width="1784" alt="Screenshot 2023-03-21 at 9 26 54 PM" src="https://user-images.githubusercontent.com/43849911/226666501-daa8d973-868b-400e-b3b6-b01bf6386103.png">
 
 <img width="1792" alt="Screenshot 2023-03-21 at 9 40 46 PM" src="https://user-images.githubusercontent.com/43849911/226670369-c1ac7d0a-9941-41ec-aa0b-026c406f2e18.png">
@@ -21,6 +23,8 @@ https://www.youtube.com/watch?v=m2cPEwwf8bc
 <img width="1792" alt="Screenshot 2023-03-21 at 10 35 44 PM" src="https://user-images.githubusercontent.com/43849911/226686933-cc71c2bf-48d4-4725-bbae-8b4e45b3a10c.png">
 
 <img width="715" alt="Screenshot 2023-03-21 at 10 39 47 PM" src="https://user-images.githubusercontent.com/43849911/226687882-c250dffd-0d0b-4307-ac9a-52693151b03b.png">
+
+https://egghead.io/courses/introduction-to-monorepos-with-npm-workspaces-c03f500b
 
 ```
 npm publish --access public
