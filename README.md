@@ -6,6 +6,8 @@ https://docs.github.com/en/packages/learn-github-packages/configuring-a-packages
 
 <img width="1792" alt="Screenshot 2023-03-21 at 9 40 46 PM" src="https://user-images.githubusercontent.com/43849911/226670369-c1ac7d0a-9941-41ec-aa0b-026c406f2e18.png">
 
+<img width="1785" alt="Screenshot 2023-03-21 at 10 20 09 PM" src="https://user-images.githubusercontent.com/43849911/226682717-fd48c9c4-bca2-4259-9e7b-f217158d716c.png">
+
 ```
 npm login --scope=@NAMESPACE --auth-type=legacy --registry=https://npm.pkg.github.com
 
