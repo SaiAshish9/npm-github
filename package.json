@@ -1,7 +1,6 @@
 {
-  "name": "@saiashish9/npm-test-sai",
-  "version": "1.0.3",
-  "description": "",
+  "name": "@saiashish9/npm-github",
+  "version": "1.0.5",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,14 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "npm-test-sai": "^1.0.1"
-  },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/SaiAshish9/npm_gitlab.git"
-   },
+    "type": "git",
+    "url": "git+https://github.com/SaiAshish9/npm-gitlab.git"
+  },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/SaiAshish9/npm-gitlab/issues"
+  },
+  "homepage": "https://github.com/SaiAshish9/npm-gitlab#readme",
+  "description": ""
 }
