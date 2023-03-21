@@ -29,3 +29,7 @@ npm notice
 npm notice Publishing to https://registry.npmjs.org/
 + @saiashish9/npm-test-sai@1.0.1
 ```
+
+```
+npm publish --registry=https://npm.pkg.github.com/
+```
