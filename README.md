@@ -24,11 +24,7 @@ https://2ality.com/2021/07/simple-monorepos.html#:~:text=Simple%20monorepos%20vi
 
 <img width="715" alt="Screenshot 2023-03-21 at 10 39 47 PM" src="https://user-images.githubusercontent.com/43849911/226687882-c250dffd-0d0b-4307-ac9a-52693151b03b.png">
 
-<img width="599" alt="Screenshot 2023-03-22 at 12 34 43 AM" src="https://user-images.githubusercontent.com/43849911/226714659-97696809-4330-4dfe-9853-b1fdc0ed381b.png">
-
 https://egghead.io/courses/introduction-to-monorepos-with-npm-workspaces-c03f500b
-
-<img width="1009" alt="Screenshot 2023-03-22 at 12 35 53 AM" src="https://user-images.githubusercontent.com/43849911/226714983-6138c27a-4ba1-4675-a2c0-502d6d0574d7.png">
 
 ```
 npm publish --access public
@@ -67,3 +63,5 @@ npm publish --registry=https://npm.pkg.github.com/
 ```
 
 <img width="1792" alt="Screenshot 2023-03-21 at 10 13 04 PM" src="https://user-images.githubusercontent.com/43849911/226680866-df94d1ae-b2fe-4a7c-b6de-7b2933e2795b.png">
+
+
