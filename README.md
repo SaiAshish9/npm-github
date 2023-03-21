@@ -28,6 +28,8 @@ https://2ality.com/2021/07/simple-monorepos.html#:~:text=Simple%20monorepos%20vi
 
 https://egghead.io/courses/introduction-to-monorepos-with-npm-workspaces-c03f500b
 
+<img width="1009" alt="Screenshot 2023-03-22 at 12 35 53 AM" src="https://user-images.githubusercontent.com/43849911/226714983-6138c27a-4ba1-4675-a2c0-502d6d0574d7.png">
+
 ```
 npm publish --access public
  
