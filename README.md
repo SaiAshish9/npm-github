@@ -5,6 +5,11 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
 <img width="1792" alt="Screenshot 2023-03-21 at 9 40 46 PM" src="https://user-images.githubusercontent.com/43849911/226670369-c1ac7d0a-9941-41ec-aa0b-026c406f2e18.png">
 
 ```
+npm login --scope=@NAMESPACE --auth-type=legacy --registry=https://npm.pkg.github.com
+
+username 
+access_token
+
 npm publish
 npm notice 
 npm notice 📦  @saiashish9/npm-test-sai@1.0.1
