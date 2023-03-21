@@ -4,6 +4,8 @@ https://docs.github.com/en/packages/learn-github-packages/configuring-a-packages
 
 https://docs.gitlab.com/ee/user/packages/package_registry/
 
+https://docs.gitlab.com/ee/user/packages/npm_registry/
+
 https://docs.gitlab.com/ee/user/packages/workflows/working_with_monorepos.html
 
 <img width="1784" alt="Screenshot 2023-03-21 at 9 26 54 PM" src="https://user-images.githubusercontent.com/43849911/226666501-daa8d973-868b-400e-b3b6-b01bf6386103.png">
